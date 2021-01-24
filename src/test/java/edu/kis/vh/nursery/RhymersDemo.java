@@ -3,6 +3,7 @@ package edu.kis.vh.nursery;
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
+//alt + ← oraz alt + → powoduja wyświetlenie następnego lub poprzedniego, otwartego w kartach powyżej, pliku
 class RhymersDemo {
 
     public static void main(String[] args) {
