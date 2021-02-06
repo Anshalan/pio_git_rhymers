@@ -28,6 +28,7 @@ public class IntLinkedList {
             return -1;
         return last.getValue();
     }
+    
 
     public int pop() {
         if (isEmpty())
